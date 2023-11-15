@@ -13,7 +13,7 @@ Ovaj projekt je pokrenut kao dio učenja i upoznavanja s osnovama rada na GitHub
 Za više informacija o Gitu i GitHubu, posjetite GitHub Docs.
 # Pogledajte našu stranicu!
 
-Projekt je živ i dostupan za pregled na: VašeKorisničkoIme.github.io/hello-world
+Projekt je živ i dostupan za pregled na: LBavdek.github.io/hello-world
 
 Ova stranica će se ažurirati kako projekt napreduje. Povremeno se vratite kako biste vidjeli najnovije promjene i dodatke.
 [Poveznica na test.md datoteku](test.md)
