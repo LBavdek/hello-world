@@ -1,20 +1,21 @@
-# Hello  World - Dobro došli!
-Ovo je moj testni GitHub repozitorij
+# Dobrodošli na stranicu mog "hello-world" projekta!
 
-## Uvod u Github
+Ovaj projekt je pokrenut kao dio učenja i upoznavanja s osnovama rada na GitHubu. Kroz ovu stranicu, možete pratiti moj napredak i razvoj vještina u radu s Gitom i GitHubom.
+Što možete očekivati?
 
-Ovdje će biti objabljen uvod u Github.
+# Ovdje ćete naći osnovne informacije o projektu, kao i demonstraciju kako GitHub Pages može biti korišten za objavljivanje sadržaja na webu.
+# Ciljevi projekta:
 
-### Osnove commitanja
+    Naučiti osnove Gita i GitHuba.
+    Stvoriti prvi repozitorij i upravljati granama.
+    Suraditi s kolegama koristeći pull zahtjeve i code reviews.
+    Objaviti projekt koristeći GitHub Pages.
 
-Ovdje ce biti osnove vezane za commitanje promjena.
+Za više informacija o Gitu i GitHubu, posjetite GitHub Docs.
+# Pogledajte našu stranicu!
 
-# Objava sadrzaja uz pomoc Github Pages
+Projekt je živ i dostupan za pregled na: VašeKorisničkoIme.github.io/hello-world
 
-Ovdje ce biti upute vezane za objavu sadrzaja repozitorija na webu.
-
-
-# Test Datoteka 
-
+Ova stranica će se ažurirati kako projekt napreduje. Povremeno se vratite kako biste vidjeli najnovije promjene i dodatke.
 [Poveznica na test.md datoteku](test.md)
 Ovo je komentar kolege Dorkina vezan uz drugu vježbu
