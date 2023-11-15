@@ -18,3 +18,4 @@ Ovdje ce biti upute vezane za objavu sadrzaja repozitorija na webu.
 
 [Poveznica na test.md datoteku](test.md)
 Ovo je komentar kolege Dorkina vezan uz drugu vježbu
+Drugi test komentar
