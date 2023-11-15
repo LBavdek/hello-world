@@ -17,3 +17,4 @@ Ovdje ce biti upute vezane za objavu sadrzaja repozitorija na webu.
 # Test Datoteka 
 
 [Poveznica na test.md datoteku](test.md)
+Ovo je komentar kolege Dorkina vezan uz drugu vježbu
