@@ -17,4 +17,8 @@ Projekt je živ i dostupan za pregled na: VašeKorisničkoIme.github.io/hello-wo
 
 Ova stranica će se ažurirati kako projekt napreduje. Povremeno se vratite kako biste vidjeli najnovije promjene i dodatke.
 [Poveznica na test.md datoteku](test.md)
+
+#Fora slika za koju se nadam da neću dobit copyright!
+![Paradise_Lost_12](https://github.com/LBavdek/hello-world/assets/150364914/115cba82-3339-4bb3-8e20-638d229a7b71)
+
 Ovo je komentar kolege Dorkina vezan uz drugu vježbu
